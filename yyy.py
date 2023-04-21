@@ -1,6 +1,9 @@
+
+
+
 print("^_^")
-ce = 10
-print(ce)
+ce = 1000
+print(ce - 7)
 print("hi!")
 
 print("Good Bye!")
